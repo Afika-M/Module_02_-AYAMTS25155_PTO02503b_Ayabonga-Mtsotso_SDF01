@@ -1,17 +1,15 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Welcome to my first repo🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ayabonga Mtsotso
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer | 🚀 Excited to Learn & Build | 🌐 Cloud Enthusiast
 
 ---
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+I'm a passionate Salesforce Admin with a drive to continually learn and grow. Currently, I'm upskilling to transition into a Salesforce Developer role, with the long-term goal of becoming a Solution Architect. I’m excited about leveraging my admin experience while deepening my knowledge of Salesforce development to create scalable, effective solutions. I’m always exploring new ways to enhance user experiences and solve complex business challenges using Salesforce.
+
 
 ---
 
@@ -23,6 +21,10 @@
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
+- ![LWC](https://img.shields.io/badge/LWC-FFFFFF?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+
+
+
 **Future Technologies:**
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
@@ -32,10 +34,11 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
 - 🚀 Adaptability
+- 🤝 Teamwork & Collaboration
+- 📢 Effective Communication
+- 🎯 Problem-Solving and troubleshooting 
+- 🧐 Detail orientated
 
 ---
 
@@ -48,7 +51,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **2️⃣ Personal Portfolio** (Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
@@ -60,24 +63,25 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
+- 🤖 Learn how to use JavaScript to develop Lightning Web Components (LWC) on   Salesforce
 - 💡 Build real-world projects and collaborate with others
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Afika-M)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayabongamtsotso1/) 
+📧 Email: [ayabonga.afika.mtsotso@gmail.com](mailto:ayabonga.afika.mtsotso@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 When I am not coding, I love spending time surrounded by nature, be it hiking or camping.
 
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afika-M&show_icons=true&theme=radical)
