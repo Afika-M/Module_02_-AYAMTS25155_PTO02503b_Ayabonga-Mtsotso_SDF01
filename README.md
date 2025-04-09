@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ayabonga Mtsotso
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build | 🌐 Cloud Enthusiast
+🌱 Beginner Software Developer | 🚀 Excited to Learn & Build | 🌐 Cloud Enthusiast 
 
 ---
 
